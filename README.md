@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @free1f
-- 👀 I’m interested in new technologies, music, drawning and language exchages
+- 👀 I’m interested in new technologies, music, drawning and language exchanges
 - 🌱 I’m currently learning front-end stacks and videogames development
 - 💞️ I’m looking to collaborate on videogames
 - 📫 How to reach me? Send me an e-mail to liseth.yggdrasil@gmail.com
